@@ -1,0 +1,24 @@
+{
+  "inventory": [
+    {
+      "id": "1767120619399",
+      "isbn": "9780132350884",
+      "bookCode": "CC001",
+      "bookName": "Clean Code",
+      "author": "Robert C. Martin",
+      "publisher": "Pearson",
+      "price": 499,
+      "quantity": 40
+    },
+    {
+      "id": "1767173948503",
+      "isbn": "0-1781-0776-X",
+      "bookCode": "CC002",
+      "bookName": "Percy Jackson and the Lightening Thief",
+      "author": "Rick Riordan",
+      "publisher": "BCX",
+      "price": 300,
+      "quantity": 8
+    }
+  ]
+}
